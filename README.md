@@ -22,4 +22,17 @@ pip install -r requirements.txt
 python ./app.py
 ```
 **landing page**
+![Image text]( https://promit-revar.github.io/Screenshot%20(9).png)
+**Dashboard**
 ![Image text]( https://promit-revar.github.io/Screenshot%20(10).png)
+
+**Invalid login**
+![Image text]( https://promit-revar.github.io/Screenshot%20(15).png)
+
+**Already registered email**
+![Image text]( https://promit-revar.github.io/ss14.png)
+
+-Author : [Promit Revar](https://promit-revar.github.io/Portfolio/)
+
+## license
+-[MIT](https://opensource.org/licenses/MIT)
